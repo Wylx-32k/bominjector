@@ -5,4 +5,4 @@ Injector for Bom Client
 Bom Injector is a Injector that injects Bom Client into your MCPE game
 
 # Is it a virus
-Try virus total
+Try virus total, If windows blocked it, its most likely a false-positive
